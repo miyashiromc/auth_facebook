@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">autenticar02</string>
+    <!-- Reemplaza con el ID real de tu aplicación en Facebook -->
+    <string name="facebook_application_id" translatable="false">fb943332467921465</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">d2b1d08c934e3c09bcbd272f84341494</string>
+    <string name="facebook_client_token" translatable="false">6549c3f051e9b2d0f3df4d5d6c961679</string>
+
+
+</resources>
